@@ -8,4 +8,4 @@ In this app, you can easily get the weather details of any city,just by typing t
 
 ![Weather finder image](https://i.postimg.cc/mZKS8Qp4/weather-Image.jpg)
 
-Live Demo [https://weather-app-ba5df.web.app/]
+[Live Demo] [https://weather-app-ba5df.web.app/]
